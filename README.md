@@ -3,7 +3,7 @@
 ## Available Scripts
 
 in the project directory, you should use command 
-### `npm start`
+### `npm install`
 
 In the project directory, you can run:
 
