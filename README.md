@@ -1,6 +1,9 @@
-# React Project for the React Course
+# React Project 
 
 ## Available Scripts
+
+in the project directory, you should use command 
+### `npm start`
 
 In the project directory, you can run:
 
