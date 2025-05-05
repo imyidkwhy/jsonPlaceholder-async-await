@@ -21,15 +21,6 @@ function Posts() {
     }
     fetchData()
   }, [])
-
-  // useEffect(() => {
-  //   fetch(API_URL)
-  //     .then((res) => res.json())
-  //     .then((posts) => setPosts(posts))
-  //     .catch((error) => setError(error.message))
-  //     .finally(() => setIsLoading(false))
-  // }, [])
-
   if (error) {
     return <h1>Error: {error}</h1>
   }
